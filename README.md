@@ -180,7 +180,7 @@ Como próximos passos, o projeto pode ser ampliado com:
 
 O vídeo de apresentação do projeto pode ser acessado no link abaixo:
 
-**(Adicionar o link após a publicação.)**
+**(https://drive.google.com/file/d/1G_umzqldLFxe2SLwofjHUqwdRfJa5KBh/view?usp=sharing)**
 
 ---
 
