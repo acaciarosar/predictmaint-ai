@@ -94,6 +94,13 @@ O código-fonte deste projeto está disponível no GitHub:
 
 <https://github.com/acaciarosar/predictmaint-ai>
 
+## 📋 Organização do projeto
+
+Para organizar as etapas de desenvolvimento, foi utilizado um quadro no Trello com a divisão das tarefas do projeto.
+
+Link do quadro:
+<https://trello.com/invite/b/6a4d926c508cce80c154f21f/ATTI6978d9ebfdb205d2a08801cd506e5bb8E9A3380D/predictmaint-ai>
+
 ## 📁 Estrutura do projeto
 
 ```text
